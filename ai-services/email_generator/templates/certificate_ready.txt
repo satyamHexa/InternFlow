@@ -1,0 +1,13 @@
+Candidate {{candidate_name}},
+
+Congratulations! Your internship completion certificate is now available.
+
+Download your certificate here:
+{{certificate_url}}
+
+This link expires in 7 days. Please save a local copy.
+
+Thank you for your contributions to {{department}}.
+
+Regards,
+Intern Flow – HR Automation Platform

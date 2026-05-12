@@ -1,0 +1,13 @@
+Candidate {{candidate_name}},
+
+Your Non-Disclosure Agreement (NDA) is ready for signature.
+
+Please review and sign your NDA using the link below:
+{{nda_sign_url}}
+
+This link expires in {{expiry_hours}} hours.
+
+If you did not expect this email, please contact HR immediately.
+
+Regards,
+Intern Flow – HR Automation Platform

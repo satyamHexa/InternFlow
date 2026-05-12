@@ -1,0 +1,12 @@
+Candidate {{candidate_name}},
+
+Your internship referral has been submitted successfully by {{referrer_name}}.
+
+Referral ID: {{referral_id}}
+Department: {{department}}
+Submitted: {{submitted_at}}
+
+Our HR team will review your application and reach out within 2 business days.
+
+Regards,
+Intern Flow – HR Automation Platform
